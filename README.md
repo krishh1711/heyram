@@ -11,7 +11,7 @@
    
 🚀 Android Developer | Mobile, Wear OS, and Automotive Expertise  Dedicated Android Developer with hands-on experience across mobile, Wear OS, and Android Auto applications. Proficient in Java, Kotlin, Jetpack Compose, and Android Studio, with a strong focus on Android native development. Currently advancing expertise in Jetpack Compose to build elegant, responsive interfaces. A collaborative team player passionate about crafting innovative and user-centric mobile solutions. Let's connect and explore how I can contribute to your team’s success! 🌐  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/your-profile-url](https://in.linkedin.com/in/heyram-krish)](https://in.linkedin.com/in/heyram-krish))    
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/your-profile-url](https://in.linkedin.com/in/heyram-krish)](https://in.linkedin.com/in/heyram-krish))     -->
 
 🌟 Domains  - **Kotlin** - **Java**   
 
